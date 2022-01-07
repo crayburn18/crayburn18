@@ -2,7 +2,6 @@
 
 Hi, I'm Connor! I am a fullstack web developer who is always eager to grow my skills and my number of friends in the community.
 
-Some of my preferred technologies are Javascript, React, Node, Express, and PostgreSQL.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
